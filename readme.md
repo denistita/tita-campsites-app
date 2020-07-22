@@ -22,7 +22,7 @@ Build a website where users can create and review campgrounds. In order to revie
 * MongoDB: Mongoose, Aggregation
 * Development: ESLint, Babel, Git, Github,
 * Deployment: Heroku   
-## Website : https://titamartapp.herokuapp.com/
+## Website : https://titamart.herokuapp.com/
 
 ## Features
 
